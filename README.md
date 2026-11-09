@@ -87,7 +87,7 @@ Download the .NET SDK: https://dotnet.microsoft.com/en-us/download
 **1. Clone the repository**
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/bhavyanatani/Delta-Capita.git
 ```
 
 **2. Navigate to the project directory**
